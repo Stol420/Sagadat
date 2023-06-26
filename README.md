@@ -1,9 +1,9 @@
 # Sagadat
-Link for side:
-file:///D:/Astana%20IT%20University/WEBcm/Sagadat/Sagadat_FINAL/index.html
-Final WEB
 hello everyone, it is will be my report for final project to Web technologies
 -----------------------------------
+Link for side:
+file:///D:/Astana%20IT%20University/WEBcm/Sagadat/Sagadat_FINAL/index.html
+
 I will delve into the fascinating history of the web, tracing its roots back to its humble beginnings and its subsequent transformation into a global phenomenon. I will explore the development of key web technologies, such as HTML, CSS, and JavaScript, and understand how they have paved the way for the modern web experience.
 
 Here, I examine the fundamental building blocks of web development. I explore the role of HTML (Hypertext Markup Language) in creating the structure and content of web pages. Additionally, we will dive into CSS (Cascading Style Sheets).
