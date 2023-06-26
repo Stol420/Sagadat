@@ -1,4 +1,6 @@
 # Sagadat
+Link for side:
+file:///D:/Astana%20IT%20University/WEBcm/Sagadat/Sagadat_FINAL/index.html
 Final WEB
 hello everyone, it is will be my report for final project to Web technologies
 -----------------------------------
